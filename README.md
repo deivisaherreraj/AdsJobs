@@ -8,3 +8,4 @@ Aplicación web para el registro de anuncios y trabajos.
     https://dzone.com/articles/crud-operations-with-aspnet-core-using-angular-5-a
     https://docs.microsoft.com/es-es/dotnet/welcome
     https://docs.microsoft.com/es-es/aspnet/core/?view=aspnetcore-2.1
+    https://www.youtube.com/watch?v=5wdlq4dlmbA
